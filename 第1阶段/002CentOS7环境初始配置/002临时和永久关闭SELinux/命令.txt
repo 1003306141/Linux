@@ -1,0 +1,3 @@
+getenforce
+setenforce 0
+vim /etc/selinux/config

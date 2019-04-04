@@ -1,0 +1,5 @@
+systemctl status firewalld	#查看firewalld状态
+systemctl stop firewalld	#关闭
+systemctl start firewalld	#开启
+systemctl disable firewalld	#开机自动关闭
+systemctl enable firewalld	#开机自动启动

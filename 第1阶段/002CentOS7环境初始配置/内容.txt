@@ -1,0 +1,10 @@
+1.关闭firewalld防火墙并设置开机不启动
+什么是firewalld？
+CentOS7系统中集成了多款防火墙管理工具，其中firewalld（Dynamic Firewall Mangager of Linux systems，Linux系统的动态防火墙管理器）服务是默认的防火墙管理工具，它拥有基于CLI（命令行界面）和GUI（图形用户界面）的两种管理方式。
+具体的使用以及配置我们这里先不讲解，之后的教程会讲解，这里先将其关闭，不然将会影响后续的实验。
+
+2.临时和永久关闭SELinux
+
+
+3.创建实验快照
+链接地址如下：
